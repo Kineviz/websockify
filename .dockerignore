@@ -1,0 +1,8 @@
+.*
+*.tar.gz
+*.tgz
+Windows/*
+test/*
+docs/*
+test-requirements.txt
+

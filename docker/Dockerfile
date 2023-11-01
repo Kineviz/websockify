@@ -1,4 +1,4 @@
-FROM python
+FROM python:3.9.18-alpine
 
 COPY websockify-*.tar.gz /
 
